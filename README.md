@@ -10,5 +10,9 @@ The data has been collected from Statsbomb's open data source on the UEFA Champi
 Part of the code has been inspired by Barca Data Scientist Sergio Llana’s work on passing networks
 
 
+![enrique](https://github.com/adityabharath30/barcapassing/assets/84198671/db386743-8a45-4521-9154-17196215b1ce)
+
+
+![guardiola](https://github.com/adityabharath30/barcapassing/assets/84198671/0aa06288-2bdd-4fd5-ab74-143117540856)
 
 
